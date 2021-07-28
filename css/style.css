@@ -1,0 +1,13 @@
+* {
+  font-family: poppins;
+}
+/* header  */
+header {
+  background-color: #264653;
+}
+ul.navbar-nav li {
+  margin-left: 30px;
+}
+.login {
+  background-color: #e76f51;
+}
