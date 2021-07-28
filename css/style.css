@@ -27,3 +27,9 @@ ul.navbar-nav li {
   background-color: #e76f51;
   color: white;
 }
+
+/* font awesome color  */
+
+.rating i {
+  color: #e76f51;
+}
